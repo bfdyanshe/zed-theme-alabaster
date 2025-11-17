@@ -239,7 +239,32 @@
             "font_style": null,
             "font_weight": null
           },
+          "type": {
+            "color": "#325CC0",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#325CC0",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#325CC0",
+            "font_style": null,
+            "font_weight": null
+          },
           "function.definition": {
+            "color": "#325CC0",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function": {
+            "color": "#325CC0",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
             "color": "#325CC0",
             "font_style": null,
             "font_weight": null
@@ -502,7 +527,32 @@
             "font_style": null,
             "font_weight": null
           },
+          "type": {
+            "color": "#71ADE7",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#71ADE7",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#71ADE7",
+            "font_style": null,
+            "font_weight": null
+          },
           "function.definition": {
+            "color": "#71ADE7",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function": {
+            "color": "#71ADE7",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
             "color": "#71ADE7",
             "font_style": null,
             "font_weight": null
@@ -763,7 +813,37 @@
             "font_style": null,
             "font_weight": null
           },
+          "type": {
+            "color": "#000000",
+            "background_color": "#eeeeee",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#000000",
+            "background_color": "#eeeeee",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#000000",
+            "background_color": "#eeeeee",
+            "font_style": null,
+            "font_weight": null
+          },
           "function.definition": {
+            "color": "#000000",
+            "background_color": "#eeeeee",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function": {
+            "color": "#000000",
+            "background_color": "#eeeeee",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
             "color": "#000000",
             "background_color": "#eeeeee",
             "font_style": null,
@@ -1034,7 +1114,37 @@
             "font_style": null,
             "font_weight": null
           },
+          "type": {
+            "color": "#eeeeee",
+            "background_color": "#333333",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#eeeeee",
+            "background_color": "#333333",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#eeeeee",
+            "background_color": "#333333",
+            "font_style": null,
+            "font_weight": null
+          },
           "function.definition": {
+            "color": "#eeeeee",
+            "background_color": "#333333",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function": {
+            "color": "#eeeeee",
+            "background_color": "#333333",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
             "color": "#eeeeee",
             "background_color": "#333333",
             "font_style": null,
@@ -1307,7 +1417,37 @@
             "font_style": null,
             "font_weight": null
           },
+          "type": {
+            "color": "#000000",
+            "background_color": "#dbf1ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.definition": {
+            "color": "#000000",
+            "background_color": "#dbf1ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "struct": {
+            "color": "#000000",
+            "background_color": "#dbf1ff",
+            "font_style": null,
+            "font_weight": null
+          },
           "function.definition": {
+            "color": "#000000",
+            "background_color": "#dbf1ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function": {
+            "color": "#000000",
+            "background_color": "#dbf1ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.special": {
             "color": "#000000",
             "background_color": "#dbf1ff",
             "font_style": null,
